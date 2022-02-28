@@ -1,0 +1,23 @@
+id: PD45FE4D8
+initial_creation_type: input
+source_metadata:
+  title: Tsultrim Zangpo
+  language: zh
+  description: 'A series of texts by and about Tulku Tsultrim Zangpo (sprul sku tshul
+    khrims bzang po, 1884–c.1957) alias Tulku Tsullo (sprul sku tshul lo) of Shukjung
+    Monastery:'
+  volume:
+    ec3f18e8457946ac86a98706dadcf070:
+      title: A Torch to Illuminate Crucial Points of the Path of Meditation
+      parent: Dzogchen
+    a3a0b7d5008744b7bef9048e629ee2b0:
+      title: The Four Uncommon Samayas of the Great Perfection
+      parent: Dzogchen
+    4d07f9eb987c41c7bf4e9bf0ac78e4dc:
+      title: A Simple Practice of Phowa, 'Transference of Consciousness'
+      parent: Phowa
+    316b705507b34202a570917504edf541:
+      title: 'A Shower of Blessings: A Sādhana of Blue-Green Tārā'
+      parent: Sādhanas
+created_at: '2022-03-01T01:56:58.994366'
+last_modified_at: '2022-03-01T01:56:58.994369'
